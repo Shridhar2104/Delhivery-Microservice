@@ -338,14 +338,7 @@ docker-compose up -d
 open http://localhost:8080/docs
 ```
 
-### Documentation Links
-- [📚 API Documentation](./docs/api.md)
-- [🏗️ Architecture Deep Dive](./docs/architecture.md)
-- [🚀 Deployment Guide](./docs/deployment.md)
-- [📊 Monitoring Setup](./docs/monitoring.md)
-- [🔧 Operational Runbooks](./docs/runbooks.md)
 
----
 
 **Built with ❤️ by the Logiance Engineering Team**
 
